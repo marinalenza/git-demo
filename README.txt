@@ -1,10 +1,8 @@
 #Demo Git Repository
 
-A list of things
+Website Contents
 
 ##Demo
 
-1. bla
-2. blabla
-
-3.blablabla
+1. title
+2. colors
